@@ -1,2 +1,2 @@
-# Project-TextAnalysis
-Placeholder for IDS 703 Final Project as Project (vaccines-twitter)
+# Twitter Ecosystem and Network on Vaccination
+Various datasets, scripts, plots and more from a project done using a collected dataset using Twitter's API focusing on the conversation surrounding vaccination.
